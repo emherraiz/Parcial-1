@@ -21,7 +21,7 @@ class Coleccion():
         return '\nEsta seria nuestra colección'
 
 
-class Libro():
+class Libro:
     def __init__(self, nombre, autor, tipo_de_libro):
         self.nombre = nombre
         self.autor = autor
