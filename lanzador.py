@@ -40,7 +40,8 @@ while opcion < 4:
         animal = Gestacion(nombre, vertebrado, oviparidad)
         animales.append(animal)
 
-    elif opcion == 3
+    elif opcion == 3:
+        
 
 
 
