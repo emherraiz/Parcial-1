@@ -13,9 +13,9 @@ class Gestacion(Vertebrado):
         super().__init__(nombre, tipo)
         self.oviparidad = oviparidad
 
-Animal = Animal('Nombre del animal')
-Mamifero = Vertebrado(Animal.nombre, 'Mamifero')
-Ovíparo = Gestacion(Mamifero.nombre, Mamifero.tipo, 'Ovíparo')
+# Animal = Animal('Nombre del animal')
+# Mamifero = Vertebrado(Animal.nombre, 'Mamifero')
+# Ovíparo = Gestacion(Mamifero.nombre, Mamifero.tipo, 'Ovíparo')
 
 # Gato
 Gato_animal = Animal('Gato')
