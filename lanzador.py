@@ -1,6 +1,7 @@
 from Ejercicios.Ejercicio_1 import Libro, Coleccion
 from Ejercicios.Ejercicio_2 import Animal, Vertebrado, Gestacion
 from Ejercicios.Ejercicio_3 import Cuenta, Cuenta_plazo_fijo, Cuenta_vip
+import random
 
 # Estas listas se podrían hacer clases también, sería volviendo a usar nuevamente la herencia como hemos utilizado en el ejercicio
 biblioteca = []
